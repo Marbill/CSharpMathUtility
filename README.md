@@ -1,3 +1,4 @@
 # CSharpMathUtility
 This is a Math utility that consists of 3 functions that calculate factorials using recursion, change cardinal numbers to ordinals, and find the prime factors of a specific number.
 The application is written on C#.
+![alt-text](https://github.com/Marbill/CSharpMathUtility/blob/master/mathUCSharp.png?raw=true "Screenshot")
